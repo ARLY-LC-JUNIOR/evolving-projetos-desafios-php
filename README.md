@@ -10,7 +10,7 @@ C o que me motiva.
 - ### **Links úteis** ###
 - [Markdown](https://www.markdownguide.org/)
 - [MySQL](https://www.mysql.com/)
-- [Interbase](https://https://interbase.com/)
+- [Interbase](https://interbase.com/)
 - [Oracle](https://www.oracle.com/br/database/)
 - [SQLServer](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads/)
 - [PostgreeSQL](https://www.postgresql.org/)
