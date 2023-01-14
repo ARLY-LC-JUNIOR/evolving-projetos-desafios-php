@@ -1,4 +1,4 @@
-  ### Repositório para estudos em PHP ###
+  ### ​:writing_hand: Repositório para estudos em PHP ###
 
 #
 - Evoluindo em projetos e desafios na linguagem PHP - é uma linguagem de script interpretada pelo Browser ou pelo Servidor de uso geral voltada para o desenvolvimento 
@@ -14,7 +14,4 @@ C o que me motiva.
 - [Oracle](https://www.oracle.com/br/database/)
 - [SQLServer](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads/)
 - [PostgreeSQL](https://www.postgresql.org/)
-
-
-   
-
+ 
